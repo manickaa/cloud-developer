@@ -1,6 +1,12 @@
-# cloud-developer
-content for Udacity's cloud developer nanodegree
+Udagram Image Filtering Microservice
 
-updating readme to check if it creates pull request.
+Deployed Elastic Beanstalk environment:
 
-Updating it again
+http://imagefilter-manicka-dev-dev.us-east-1.elasticbeanstalk.com/
+
+To hit the filteredimage endpoint:
+
+http://imagefilter-manicka-dev-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://i.imgur.com/LU2elXO.jpg
+
+
+Go to https://github.com/manickaa/cloud-developer/tree/master/course-02/project/image-filter-starter-code to check out the code and screenshots.
